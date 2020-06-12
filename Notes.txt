@@ -1,0 +1,21 @@
+How would you describe acessibility on the web to someone new to programming?
+To make a website accessible means that it should be available for anyone, including those with disabilities.
+That means writing code in a way that people who use special devices will be able to see and understand the content in a page,
+such as creating captions for images or titles for secitons on your webpage.
+
+
+Talk about 3 different things you can do to ensure your website is accessible.
+Adding semantic html to your document.  This way people with screen readers will be able to read what part of the page
+they're on, and what it's meant to convey.
+
+Adding alt tags to images that will tell someone who is blind what the image is about.
+
+Differentiating between links and buttons so that blind people will know if what they'r on is a link that will take them to a new page
+or a button that will activate a particular action on the webpage.
+
+How would you explain the concept of a variable to someone new to programming?
+A variable is a keyword that store information such as words or numbers that you can call later on with the name of the keyword.
+
+What is the purpose of using functions in code?
+Functions are meant to group related code together so that it won't run until you call it.  Also, functions allow you to reuse
+the same block of code multiple times.
