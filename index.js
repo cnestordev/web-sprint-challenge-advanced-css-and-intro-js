@@ -392,16 +392,18 @@ function getHTML(arr) {
   arr.forEach((item) => {
     for (const property in item) {
       let element = document.createElement('div');
-      element.innerHTML = `<div class="image">
-      //  <img src=${item.url}>
-      // </div>
-      // <div class = "name">
-      //  <a href=${arr.wikipedia}> ${item.name}</a>
-      // </div>
-      // <div class = "bio">${item.bio}</div>`;
-      console.log(element);
+      element.innerHTML = `<div class=`;
     }
   });
+  // return `<div id="artist">
+  //   <div class="image">
+  //       <img src=${arr.url}/>
+  //   </div>
+  //   <div class = "name">
+  //      <a href=${arr.wikipedia}> ${name}</a>
+  //   </div>
+  //   <div class = "bio">${bio}</div>
+  //   </div>`;
 }
 
 // --------------------------- STRETCH 2 ---------------------------------------------
